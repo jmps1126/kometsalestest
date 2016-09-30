@@ -1,0 +1,11 @@
+.quitar-float{
+	float: none;
+}
+.espacio-arriba{
+	margin-top: 50px;
+}
+.inline-block{
+	float: none;
+	display: inline-block;
+	margin-right: -4px;
+}
